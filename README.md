@@ -5,7 +5,7 @@ An end-to-end data engineering and business intelligence project focused on calc
 
 ### 🖼️ Dashboard Preview
 ![Dashboard Main View](Screenshots/dashboard_main_view.png) 
-*Note: Create a folder named "Screenshots" in your repository, save a picture of your final dashboard layout, name it "dashboard_main_view.png", and it will display right here!*
+
 
 ---
 
